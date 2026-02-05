@@ -1,152 +1,151 @@
 # 🚀 Aditya Kumar Chaubey  
-### Python Developer • Data Analyst • Machine Learning Enthusiast  
-**B.S. Student — IIT Madras (2023–2027)**
+### AI Engineer (Aspirant) • Python Developer • Data Analyst  
+**B.S. Student — IIT Madras (2023–2027)**  
 
-[![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)](https://www.python.org/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit)](https://streamlit.io/)
-[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-ML-green)]()
-[![FAISS](https://img.shields.io/badge/FAISS-Vector%20Search-orange)]()
-[![SentenceTransformers](https://img.shields.io/badge/SentenceTransformers-Embeddings-purple)]()
-
----
-
-## 👋 About Me
-
-I’m **Aditya Kumar Chaubey**, a **Bachelor of Science student at IIT Madras (2023–2027)** and an aspiring **Python Developer & Data Analyst**.
-
-I build **practical, reproducible data and ML projects** with a focus on:
-- Clean and readable code  
-- Clear documentation  
-- End-to-end working demos  
-- Real-world problem solving  
-
-As a fresher, I emphasize **clarity of thought and execution** over theory.  
-I am actively seeking **internships and collaborative projects**.
+<p align="center">
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.12-blue?logo=python" /></a>
+  <img src="https://img.shields.io/badge/Machine%20Learning-ML-green" />
+  <img src="https://img.shields.io/badge/FAISS-Vector%20Search-orange" />
+  <img src="https://img.shields.io/badge/Power%20BI-Data%20Visualization-yellow?logo=powerbi" />
+  <img src="https://img.shields.io/badge/Streamlit-App-red?logo=streamlit" />
+  <img src="https://img.shields.io/badge/Flask-API-black?logo=flask" />
+</p>
 
 ---
 
-## 🎓 Education
+## 👋 About Me  
+
+Hi, I’m **Aditya Kumar Chaubey**, a **B.S. student at IIT Madras (2023–2027)** passionate about **AI, Machine Learning, and Data Analytics**.  
+
+I love building **real-world AI products** and **data-driven applications** with clean UI and solid backend logic.  
+My work focuses on:  
+- ✅ End-to-end ML & LLM projects  
+- ✅ Clean, readable, and maintainable code  
+- ✅ Practical dashboards & APIs  
+- ✅ Strong documentation and usability  
+
+🎯 Actively looking for **internships / entry-level roles** in **AI, ML, Data Science, and Python Development**.
+
+---
+
+## 🎓 Education  
 
 **Bachelor of Science (B.S.)**  
 **Indian Institute of Technology Madras (IITM)**  
-📅 *2023 – 2027*
-
-**Relevant Coursework**
-- Programming in Python  
-- Data Analysis  
-- Statistics  
-- Project-Based Labs  
+📅 2023 – 2027  
 
 ---
 
-## 🧠 Focus Areas
+## 🧠 Interests & Domains  
 
-- Python Development  
-- Data Cleaning & Visualization  
-- Automation & CLI Tools  
-- Machine Learning (Foundations)  
-- LLM & NLP-based Applications  
+- Artificial Intelligence & LLM Applications  
+- Machine Learning & Predictive Modeling  
+- Data Analysis & Visualization  
+- Backend APIs & Automation  
+- Full-Stack AI Tools  
 
 ---
 
-## 🛠️ Core Skills
+## 🛠️ Skills  
 
-### Programming & Data
-- 🐍 Python  
-- 📊 Excel, Power BI, Tableau  
-- 📈 Data Analysis & Reporting  
-- 🤖 Machine Learning  
+**Languages & ML**  
+- Python  
+- Machine Learning (scikit-learn)  
+- NLP (LLM-based systems, Embeddings)  
 
-### Tools & Platforms
-- Prompt Engineering  
-- AI Tools  
+**Data & Visualization**  
+- Power BI  
+- Excel  
+- Data Cleaning & Reporting  
+
+**Frameworks & Tools**  
 - Streamlit  
-- FAISS  
+- FAISS (Vector Databases)  
 - SentenceTransformers  
-- Netlify / Vercel  
+- Flask (APIs)  
+- Git & GitHub  
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Projects  
 
-### ⭐ LLM Document Analyzer
-**LLM-powered document question-answering system**
+### ⭐ LLM Document Analyzer  
+🔗 https://github.com/adityadevlops-dot/LLM-Document-Analyzer  
 
-[![Python](https://img.shields.io/badge/Python-blue?logo=python)]()
-[![Streamlit](https://img.shields.io/badge/Streamlit-red?logo=streamlit)]()
-[![FAISS](https://img.shields.io/badge/FAISS-Vector%20DB-orange)]()
+**AI-powered document Q&A system** for PDFs, DOCX, and TXT files using **vector search + LLMs**.  
+- Semantic search with FAISS  
+- Embedding-based retrieval  
+- Chat-style interface  
+- Clean Streamlit UI  
 
-A smart document analysis tool that allows users to upload **PDF, DOCX, and TXT** files and ask natural-language questions. Uses **vector embeddings + FAISS** for fast semantic retrieval and a clean **Streamlit UI**.
-
-**Highlights**
-- Multi-document upload support  
-- Semantic search using embeddings  
-- Fast retrieval with FAISS  
-- Chat-style Q&A interface  
-- Clean and modular architecture  
-
-**Tech Stack:**  
-Python · Streamlit · FAISS · SentenceTransformers  
+**Tech:** Python · Streamlit · FAISS · SentenceTransformers · LLM APIs  
 
 ---
 
-### 🔹 CLI Utilities & Automation
-A collection of small command-line tools for:
-- File operations  
-- Report generation  
-- ETL helpers  
+### ⭐ Toolkit AI (25+ Tools Platform)  
+🔗 https://github.com/adityadevlops-dot/Toolkit-AI  
 
-Built to demonstrate scripting discipline, automation skills, and reproducible workflows.
+**Multi-tool AI productivity platform** with 25+ utilities in a single dashboard.  
+- Modular tool architecture  
+- API-powered features  
+- Scalable design  
 
-**Tech:** Python · CLI · Automation  
-
----
-
-### 🔹 Data Analysis & ML Projects
-Hands-on projects using:
-- scikit-learn  
-- statsmodels  
-
-Focused on data exploration, modeling, and clear interpretation of results.
+**Tech:** Python · Streamlit · APIs · Prompt Engineering  
 
 ---
 
-## ⚙️ How I Work
+### ⭐ Smart Expense Tracker  
+🔗 https://github.com/adityadevlops-dot/Smart-Expense-Tracker  
 
-- Understand the problem before coding  
-- Explore data and define metrics  
-- Build small, testable, reproducible pipelines  
-- Iterate quickly with visuals and results  
-- Prioritize **clear READMEs** and documentation  
+**Personal finance tracker** for daily expense logging and monthly insights.  
+- Category-wise analysis  
+- Clean dashboard UI  
+- Can be extended with Power BI  
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aditya2488&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya2488&layout=compact)
+**Tech:** Python · Data Analysis · Visualization  
 
 ---
 
-## 📬 Contact
+### ⭐ Hospital Management System  
+Academic project to manage **patients, appointments, and records** with CRUD-based workflows.  
 
-- 🔗 **LinkedIn**  
-  https://linkedin.com/in/aditya-devlops-5967273a1  
+**Tech:** Python · Flask · SQL  
 
-- 📧 **Email**  
+---
+
+### ⭐ Housing Price Prediction (ML Project)  
+Machine learning model to predict **housing prices** using regression techniques.  
+- Feature engineering  
+- Model evaluation  
+- Performance comparison  
+
+**Tech:** Python · Pandas · scikit-learn · Data Visualization  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adityadevlops-dot&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityadevlops-dot&layout=compact&theme=tokyonight" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=adityadevlops-dot&theme=tokyonight" />
+</p>
+
+---
+
+## 📬 Connect With Me  
+
+- 🔗 LinkedIn:  
+  https://www.linkedin.com/in/aditya-chaubey-5967273a1/  
+
+- 💻 GitHub:  
+  https://github.com/adityadevlops-dot  
+
+- 📧 Email:  
   adityadevlops@gmail.com  
 
 ---
 
-## 🎯 Seeking Opportunities
-
-🚀 **Internships / Project Collaborations**  
-in **Python Development, Data Analysis, Automation & Machine Learning**  
-*(Fresher · IIT Madras)*
-
----
-
-📝 **Made by Aditya Kumar Chaubey**  
-*IIT Madras B.S. Student (2023–2027)*  
-📧 adityadevlops@gmail.com
-
+⭐ If you like my work, consider giving a **star** to the repositories!  
