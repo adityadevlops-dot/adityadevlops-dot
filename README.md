@@ -1,5 +1,5 @@
-# 🚀 Aditya Kumar Chaubey  
-### AI Engineer (Aspirant) • Python Developer • Data Analyst  
+# Aditya Kumar Chaubey  
+### AI Engineer (Aspirant) | Python Developer | Data Analyst  
 **B.S. Student — IIT Madras (2023–2027)**  
 
 <p align="center">
@@ -13,30 +13,29 @@
 
 ---
 
-## 👋 About Me  
+## About Me  
 
-Hi, I’m **Aditya Kumar Chaubey**, a **B.S. student at IIT Madras (2023–2027)** passionate about **AI, Machine Learning, and Data Analytics**.  
+I'm a **B.S. student at IIT Madras** working on **AI, Machine Learning, and Data Analytics**. I'm genuinely interested in building AI products that solve real problems—from LLM-powered document analysis to personal finance dashboards.
 
-I love building **real-world AI products** and **data-driven applications** with clean UI and solid backend logic.  
-My work focuses on:  
-- ✅ End-to-end ML & LLM projects  
-- ✅ Clean, readable, and maintainable code  
-- ✅ Practical dashboards & APIs  
-- ✅ Strong documentation and usability  
+What I do:  
+- Build end-to-end ML projects with clean, readable code
+- Create dashboards and APIs that actually work
+- Document my work properly so others can learn from it
+- Keep learning and experimenting with new tools
 
-🎯 Actively looking for **internships / entry-level roles** in **AI, ML, Data Science, and Python Development**.
+Currently looking for **internships or entry-level roles** in AI, ML, Data Science, or Python development where I can contribute and grow.
 
 ---
 
-## 🎓 Education  
+## Education  
 
 **Bachelor of Science (B.S.)**  
 **Indian Institute of Technology Madras (IITM)**  
-📅 2023 – 2027  
+2023 – 2027  
 
 ---
 
-## 🧠 Interests & Domains  
+## What I'm Learning & Building With  
 
 - Artificial Intelligence & LLM Applications  
 - Machine Learning & Predictive Modeling  
@@ -46,84 +45,96 @@ My work focuses on:
 
 ---
 
-## 🛠️ Skills  
+## Skills  
 
-**Languages & ML**  
-- Python  
-- Machine Learning (scikit-learn)  
-- NLP (LLM-based systems, Embeddings)  
+**Languages**  
+- Python (core language)  
+- SQL (database queries, working with tabular data)  
+
+**Machine Learning & AI**  
+- Scikit-learn (classification, regression)  
+- NLP with LLMs & Embeddings  
+- FAISS for Vector Search  
+- SentenceTransformers  
 
 **Data & Visualization**  
-- Power BI  
-- Excel  
-- Data Cleaning & Reporting  
+- Power BI (exploring tabular data, building dashboards)  
+- Pandas & NumPy (data manipulation)  
+- Excel (quick analysis)  
 
 **Frameworks & Tools**  
-- Streamlit  
-- FAISS (Vector Databases)  
-- SentenceTransformers  
-- Flask (APIs)  
+- Streamlit (building interactive apps)  
+- Flask (REST APIs)  
 - Git & GitHub  
+- REST APIs (integration & consumption)  
 
 ---
 
-## 📌 Featured Projects  
+## Featured Projects  
 
-### ⭐ LLM Document Analyzer  
-🔗 https://github.com/adityadevlops-dot/LLM-Document-Analyzer  
+### LLM Document Analyzer  
+https://github.com/adityadevlops-dot/LLM-Document-Analyzer  
 
-**AI-powered document Q&A system** for PDFs, DOCX, and TXT files using **vector search + LLMs**.  
+An AI-powered Q&A system for PDFs, DOCX, and TXT files. It uses vector embeddings to understand document content and answer questions in a conversational way.
+
 - Semantic search with FAISS  
-- Embedding-based retrieval  
-- Chat-style interface  
-- Clean Streamlit UI  
+- Embedding-based document retrieval  
+- Chat interface in Streamlit  
+- Clean, modular code  
 
-**Tech:** Python · Streamlit · FAISS · SentenceTransformers · LLM APIs  
-
----
-
-### ⭐ Toolkit AI (25+ Tools Platform)  
-🔗 https://github.com/adityadevlops-dot/Toolkit-AI  
-
-**Multi-tool AI productivity platform** with 25+ utilities in a single dashboard.  
-- Modular tool architecture  
-- API-powered features  
-- Scalable design  
-
-**Tech:** Python · Streamlit · APIs · Prompt Engineering  
+Tech: Python, Streamlit, FAISS, SentenceTransformers, LLM APIs  
 
 ---
 
-### ⭐ Smart Expense Tracker  
-🔗 https://github.com/adityadevlops-dot/Smart-Expense-Tracker  
+### Toolkit AI (25+ Tools Platform)  
+https://github.com/adityadevlops-dot/Toolkit-AI  
 
-**Personal finance tracker** for daily expense logging and monthly insights.  
-- Category-wise analysis  
-- Clean dashboard UI  
-- Can be extended with Power BI  
+A single dashboard with 25+ AI-powered utilities. Built to explore how different AI tasks can be combined in one place.
 
-**Tech:** Python · Data Analysis · Visualization  
+- Modular architecture (easy to add new tools)  
+- API-based features  
+- Streamlit frontend  
 
----
-
-### ⭐ Hospital Management System  
-Academic project to manage **patients, appointments, and records** with CRUD-based workflows.  
-
-**Tech:** Python · Flask · SQL  
+Tech: Python, Streamlit, APIs, Prompt Engineering  
 
 ---
 
-### ⭐ Housing Price Prediction (ML Project)  
-Machine learning model to predict **housing prices** using regression techniques.  
-- Feature engineering  
-- Model evaluation  
-- Performance comparison  
+### Smart Expense Tracker  
+https://github.com/adityadevlops-dot/Smart-Expense-Tracker  
 
-**Tech:** Python · Pandas · scikit-learn · Data Visualization  
+A personal finance tracker for logging daily expenses and understanding spending patterns.
+
+- Category-wise breakdown  
+- Dashboard with insights  
+- Designed to work with Power BI for deeper analysis  
+
+Tech: Python, Pandas, Data Analysis  
 
 ---
 
-## 📊 GitHub Stats  
+### Hospital Management System  
+Academic project for managing patient records, appointments, and basic workflows.
+
+- CRUD operations  
+- Database-driven  
+- Practical exposure to backend systems  
+
+Tech: Python, Flask, SQL  
+
+---
+
+### Housing Price Prediction  
+A machine learning project to predict housing prices based on property features.
+
+- Data preprocessing & feature engineering  
+- Multiple regression models compared  
+- Performance evaluation  
+
+Tech: Python, Pandas, Scikit-learn  
+
+---
+
+## GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adityadevlops-dot&show_icons=true&theme=tokyonight" />
@@ -135,17 +146,12 @@ Machine learning model to predict **housing prices** using regression techniques
 
 ---
 
-## 📬 Connect With Me  
+## Let's Connect  
 
-- 🔗 LinkedIn:  
-  https://www.linkedin.com/in/aditya-chaubey-5967273a1/  
-
-- 💻 GitHub:  
-  https://github.com/adityadevlops-dot  
-
-- 📧 Email:  
-  adityadevlops@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/aditya-chaubey-5967273a1/  
+- GitHub: https://github.com/adityadevlops-dot  
+- Email: adityadevlops@gmail.com  
 
 ---
 
-⭐ If you like my work, consider giving a **star** to the repositories!  
+If you find my projects useful, a star would mean a lot. Thanks for stopping by!
