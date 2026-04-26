@@ -1,205 +1,118 @@
-# Aditya Kumar Chaubey  
-### AI Engineer (Aspirant) | Python Developer | Data Analyst  
-**B.S. Student — IIT Madras (2023–2027)**  
+<div align="center">
+
+  <!-- Badges & Links -->
+  <a href="https://github.com/adityadevlops-dot">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/aditya-chaubey-5967273a1/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:adityadevlops@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/adityadevlops/">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/>
+  </a>
+  <a href="https://adityadevlops.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-0077b6?style=for-the-badge&logo=bytedance&logoColor=white"/>
+  </a>
+</div>
+
+<h1 align="center">Hi there, I'm Aditya Kumar Chaubey 👋</h1>
+
+<h3 align="center">🚀 AI Engineer (Aspirant) · BSc @ IIT Madras · Full-Stack Developer · ML Enthusiast</h3>
+
+---
+
+### 🌟 About Me
+
+- 🎓 B.S. Student @ IIT Madras (2023–2027)
+- 🧐 Artificial Intelligence | Machine Learning | Full-Stack Web Development | Data Analytics
+- 🤝 Building AI products that solve real problems | LLM Applications | Vector Search & Embeddings
+- 🏆 Python, JavaScript, SQL, React, Node.js, Flask, Streamlit, Power BI, FAISS, Git/GitHub
+- 📈 Passionate about turning data into actionable insights and AI solutions!
+
+---
+
+## 🛠️ Skills & Tech
+
+<code><img height="25" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/></code>
+<code><img height="25" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></code>
+<code><img height="25" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/></code>
+<code><img height="25" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/></code>
+<code><img height="25" src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/></code>
+<code><img height="25" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/></code>
+<code><img height="25" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/></code>
+<code><img height="25" src="https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white"/></code>
+<code><img height="25" src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white"/></code>
+<code><img height="25" src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/></code>
+<code><img height="25" src="https://img.shields.io/badge/FAISS-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/></code>
+<code><img height="25" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/></code>
+<code><img height="25" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/></code>
+<code><img height="25" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=white"/></code>
+<code><img height="25" src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/></code>
+<code><img height="25" src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white"/></code>
+<code><img height="25" src="https://img.shields.io/badge/WebRTC-29B6F6?style=for-the-badge&logo=webrtc&logoColor=white"/></code>
+<code><img height="25" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></code>
+<code><img height="25" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></code>
+
+---
+
+## 📊 My GitHub Stats (Live)
 
 <p align="center">
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.12-blue?logo=python" /></a>
-  <img src="https://img.shields.io/badge/Machine%20Learning-ML-green" />
-  <img src="https://img.shields.io/badge/FAISS-Vector%20Search-orange" />
-  <img src="https://img.shields.io/badge/Power%20BI-Data%20Visualization-yellow?logo=powerbi" />
-  <img src="https://img.shields.io/badge/Streamlit-App-red?logo=streamlit" />
-  <img src="https://img.shields.io/badge/Flask-API-black?logo=flask" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adityadevlops-dot&show_icons=true&theme=vision-friendly-dark&count_private=true&include_all_commits=true" alt="adityadevlops-dot's GitHub stats" height="180"/>
+  <!-- <img src="https://github-readme-streak-stats.demolab.com/?user=adityadevlops-dot&theme=vision-friendly-dark" alt="adityadevlops-dot's GitHub streak" height="180"/> -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityadevlops-dot&theme=vision_friendly_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adityadevlops-dot&theme=vision_friendly_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adityadevlops-dot&theme=vision_friendly_dark"/>
+  <!-- <img src="https://github-profile-trophy.vercel.app/?username=adityadevlops-dot&theme=darkhub&no-bg=true&margin-w=4" alt="Achievements"/> -->
 </p>
 
 ---
 
-## About Me  
+### 🗓️ Contribution Heatmap (ALL Years)
 
-I'm a **B.S. student at IIT Madras** working on **AI, Machine Learning, and Data Analytics**. I'm genuinely interested in building AI products that solve real problems—from LLM-powered document analysis to real-time collaborative tools.
-
-What I do:  
-- Build end-to-end ML projects with clean, readable code
-- Create dashboards and APIs that actually work
-- Document my work properly so others can learn from it
-- Keep learning and experimenting with new tools
-
-Currently looking for **internships or entry-level roles** in AI, ML, Data Science, or Python development where I can contribute and grow.
-
----
-
-## Education  
-
-**Bachelor of Science (B.S.)**  
-**Indian Institute of Technology Madras (IITM)**  
-2023 – 2027  
-
----
-
-## What I'm Learning & Building With  
-
-- Artificial Intelligence & LLM Applications  
-- Machine Learning & Predictive Modeling  
-- Data Analysis & Visualization  
-- Backend APIs & Automation  
-- Full-Stack AI Tools  
-- Real-Time Web Applications & WebRTC
-
----
-
-## Skills  
-
-**Languages**  
-- Python (core language)  
-- SQL (database queries, working with tabular data)
-- JavaScript (full-stack development)
-
-**Machine Learning & AI**  
-- Scikit-learn (classification, regression)  
-- NLP with LLMs & Embeddings  
-- FAISS for Vector Search  
-- SentenceTransformers  
-
-**Data & Visualization**  
-- Power BI (exploring tabular data, building dashboards)  
-- Pandas & NumPy (data manipulation)  
-- Excel (quick analysis)  
-
-**Frameworks & Tools**  
-- Streamlit (building interactive apps)  
-- Flask (REST APIs)  
-- React 18 (frontend development)
-- Node.js & Express (backend)
-- Socket.io (real-time communication)
-- MongoDB & Mongoose (databases)
-- Git & GitHub  
-- REST APIs (integration & consumption)
-
----
-
-## Featured Projects  
-
-### DevDop - Real-Time Collaborative Coding Platform
-https://github.com/adityadevlops-dot/DEVDOP
-
-A **production-ready collaborative coding platform** built for remote pair programming, technical interviews, and distributed learning.
-
-**Key Features:**
-- Real-Time Code Synchronization - Changes sync instantly across all participants using Socket.io
-- Live Chat System - Built-in messaging for seamless team communication
-- Video & Audio Calls - Peer-to-peer WebRTC implementation with camera/microphone support
-- Multi-User Rooms - Create collaborative sessions with unique room codes
-- Secure Authentication - JWT-based login/registration with token persistence
-- Syntax Highlighting - Support for 8+ programming languages (JavaScript, Python, Java, C++, Go, TypeScript, Rust, C)
-- Code Execution - Run code directly with Judge0 API integration
-- Live Cursor Tracking - See exactly where other users are typing in real-time
-- Smart Output Panel - Collapsible execution results with smart formatting
-- Modern Dark Theme - Beautiful, responsive UI with Tailwind CSS
-- Participant Avatars - Visual identification of team members
-
-**Tech Stack:**
-- **Frontend:** React 18, Vite, Socket.io Client, Zustand, Tailwind CSS, Monaco Editor
-- **Backend:** Node.js 18+, Express.js, Socket.io Server, MongoDB Atlas, JWT, Mongoose
-- **Infrastructure:** Judge0 API for code execution, WebRTC for video/audio, CORS configuration
-
----
-
-### LLM Document Analyzer  
-https://github.com/adityadevlops-dot/LLM-Document-Analyzer  
-
-An AI-powered Q&A system for PDFs, DOCX, and TXT files. It uses vector embeddings to understand document content and answer questions in a conversational way.
-
-**Features:**
-- Semantic search with FAISS  
-- Embedding-based document retrieval  
-- Chat interface in Streamlit  
-- Clean, modular code  
-
-**Tech:** Python, Streamlit, FAISS, SentenceTransformers, LLM APIs  
-
----
-
-### Toolkit AI (25+ Tools Platform)  
-https://github.com/adityadevlops-dot/Toolkit-AI  
-
-A single dashboard with 25+ AI-powered utilities. Built to explore how different AI tasks can be combined in one place.
-
-**Features:**
-- Modular architecture (easy to add new tools)  
-- API-based features  
-- Streamlit frontend  
-
-**Tech:** Python, Streamlit, APIs, Prompt Engineering  
-
----
-
-### Smart Expense Tracker  
-https://github.com/adityadevlops-dot/Smart-Expense-Tracker  
-
-A personal finance tracker for logging daily expenses and understanding spending patterns.
-
-**Features:**
-- Category-wise breakdown  
-- Dashboard with insights  
-- Designed to work with Power BI for deeper analysis  
-
-**Tech:** Python, Pandas, Data Analysis  
-
----
-
-### Hospital Management System  
-Academic project for managing patient records, appointments, and basic workflows.
-
-**Features:**
-- CRUD operations  
-- Database-driven  
-- Practical exposure to backend systems  
-
-**Tech:** Python, Flask, SQL  
-
----
-
-### Housing Price Prediction  
-A machine learning project to predict housing prices based on property features.
-
-**Features:**
-- Data preprocessing & feature engineering  
-- Multiple regression models compared  
-- Performance evaluation  
-
-**Tech:** Python, Pandas, Scikit-learn  
-
----
-
-## GitHub Statistics & Insights
-
-### Overall Activity & Contributions
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityadevlops-dot&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-</p>
-
-### Contribution Streak & Consistency
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=adityadevlops-dot&theme=tokyonight" />
-</p>
-
-### Top Languages by Usage Distribution
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityadevlops-dot&layout=compact&theme=tokyonight&langs_count=8" />
-</p>
-
-### Repository Activity Timeline
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=adityadevlops-dot&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityadevlops-dot&theme=github-compact"/>
 </p>
 
 ---
 
-## Let's Connect  
+## 🏆 Achievements & Highlights
 
-- LinkedIn: https://www.linkedin.com/in/aditya-chaubey-5967273a1/  
-- GitHub: https://github.com/adityadevlops-dot  
-- Email: adityadevlops@gmail.com  
+- 🔥 Built production-ready collaborative coding platform (DEVDOP) with real-time features
+- 🎯 AI-powered document analyzer with semantic search & FAISS embeddings
+- 🧠 25+ AI tools platform | LLM applications | Vector databases
+- 🌟 Full-stack development with WebRTC, Socket.io, and real-time synchronization
+- 📊 Data visualization & analytics with Power BI & Pandas
+- 💼 Currently seeking internships in AI, ML, Data Science, or Python development
 
 ---
 
-If you find my projects useful, a star would mean a lot. Thanks for stopping by!
+### 📜 **Notable Projects**
+
+- [DEVDOP - Collaborative Coding Platform](https://github.com/adityadevlops-dot/DEVDOP) - Real-time pair programming with WebRTC & Socket.io
+- [LLM Document Analyzer](https://github.com/adityadevlops-dot/LLM-Document-Analyzer) - AI Q&A system with FAISS vector search
+- [Toolkit AI (25+ Tools)](https://github.com/adityadevlops-dot/Toolkit-AI) - Multi-purpose AI utilities platform
+- [Smart Expense Tracker](https://github.com/adityadevlops-dot/Smart-Expense-Tracker) - Finance analytics with Power BI integration
+- [Hospital Management System](https://github.com/adityadevlops-dot/) - Flask-based CRUD application with SQL database
+- [Housing Price Prediction](https://github.com/adityadevlops-dot/) - ML regression with Scikit-learn & data preprocessing
+
+---
+
+<p align="center">Made with ❤️ by Aditya Kumar Chaubey</p>
+<!--
+**adityadevlops-dot/adityadevlops-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I'm currently working on ...
+- 🌱 I'm currently learning ...
+- 👯 I'm looking to collaborate on ...
+- 🤔 I'm looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
