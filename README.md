@@ -15,7 +15,7 @@
 
 ## About Me  
 
-I'm a **B.S. student at IIT Madras** working on **AI, Machine Learning, and Data Analytics**. I'm genuinely interested in building AI products that solve real problems—from LLM-powered document analysis to collaborative coding platforms.
+I'm a **B.S. student at IIT Madras** working on **AI, Machine Learning, and Data Analytics**. I'm genuinely interested in building AI products that solve real problems—from LLM-powered document analysis to real-time collaborative tools.
 
 What I do:  
 - Build end-to-end ML projects with clean, readable code
@@ -78,23 +78,23 @@ Currently looking for **internships or entry-level roles** in AI, ML, Data Scien
 
 ## Featured Projects  
 
-### 🎯 DevDop – Real-Time Collaborative Coding Platform
+### DevDop - Real-Time Collaborative Coding Platform
 https://github.com/adityadevlops-dot/DEVDOP
 
 A **production-ready collaborative coding platform** built for remote pair programming, technical interviews, and distributed learning.
 
 **Key Features:**
-- ⚡ **Real-Time Code Synchronization** – Changes sync instantly across all participants using Socket.io
-- 💬 **Live Chat System** – Built-in messaging for seamless team communication
-- 🎥 **Video & Audio Calls** – Peer-to-peer WebRTC implementation with camera/microphone support
-- 👥 **Multi-User Rooms** – Create collaborative sessions with unique room codes
-- 🔐 **Secure Authentication** – JWT-based login/registration with token persistence
-- 🎨 **Syntax Highlighting** – Support for 8+ programming languages (JavaScript, Python, Java, C++, Go, TypeScript, Rust, C)
-- ⚙️ **Code Execution** – Run code directly with Judge0 API integration
-- 🔍 **Live Cursor Tracking** – See exactly where other users are typing in real-time
-- 📊 **Smart Output Panel** – Collapsible execution results with smart formatting
-- 🌙 **Modern Dark Theme** – Beautiful, responsive UI with Tailwind CSS
-- 👤 **Participant Avatars** – Visual identification of team members
+- Real-Time Code Synchronization - Changes sync instantly across all participants using Socket.io
+- Live Chat System - Built-in messaging for seamless team communication
+- Video & Audio Calls - Peer-to-peer WebRTC implementation with camera/microphone support
+- Multi-User Rooms - Create collaborative sessions with unique room codes
+- Secure Authentication - JWT-based login/registration with token persistence
+- Syntax Highlighting - Support for 8+ programming languages (JavaScript, Python, Java, C++, Go, TypeScript, Rust, C)
+- Code Execution - Run code directly with Judge0 API integration
+- Live Cursor Tracking - See exactly where other users are typing in real-time
+- Smart Output Panel - Collapsible execution results with smart formatting
+- Modern Dark Theme - Beautiful, responsive UI with Tailwind CSS
+- Participant Avatars - Visual identification of team members
 
 **Tech Stack:**
 - **Frontend:** React 18, Vite, Socket.io Client, Zustand, Tailwind CSS, Monaco Editor
@@ -170,14 +170,26 @@ A machine learning project to predict housing prices based on property features.
 
 ---
 
-## GitHub Stats  
+## GitHub Statistics & Insights
 
+### Overall Activity & Contributions
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityadevlops-dot&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityadevlops-dot&layout=compact&theme=tokyonight" />
-  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=adityadevlops-dot&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+</p>
+
+### Contribution Streak & Consistency
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=adityadevlops-dot&theme=tokyonight" />
+</p>
+
+### Top Languages by Usage Distribution
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityadevlops-dot&layout=compact&theme=tokyonight&langs_count=8" />
+</p>
+
+### Repository Activity Timeline
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=adityadevlops-dot&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
