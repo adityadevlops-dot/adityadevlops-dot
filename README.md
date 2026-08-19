@@ -96,7 +96,6 @@
 - [LLM Document Analyzer](https://github.com/adityadevlops-dot/LLM-Document-Analyzer) - AI Q&A system with FAISS vector search
 - [Toolkit AI (25+ Tools)](https://github.com/adityadevlops-dot/Toolkit-AI) - Multi-purpose AI utilities platform
 - [Smart Expense Tracker](https://github.com/adityadevlops-dot/Smart-Expense-Tracker) - Finance analytics with Power BI integration
-- [Hospital Management System](https://github.com/adityadevlops-dot/) - Flask-based CRUD application with SQL database
 
 ---
 
